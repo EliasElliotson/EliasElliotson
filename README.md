@@ -6,6 +6,8 @@ I'm currently working on building a 2D game engine so that I can eventually get 
 
 I'm currently learning tons of things, such as physics, networking, the rendering pipeline, data compression, web design, maturity, and more.  I'm hoping to get better at matrices and vectors.
 
+I'm currently working for a small incorporation called _Cracklecat Inc_. where I get to work on several sites owned by _Advice On Wealth_, as well as the _Moo To Do_ app by _CATTLEytics_.
+
 Fun fact: Did you know that clouds typically weigh a million tons?  Or did you know that a chicken once survived 18 months without a head?
 
 <!--
