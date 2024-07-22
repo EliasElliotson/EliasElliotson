@@ -1,10 +1,14 @@
-## Hi there 👋
+# Hi there!
+
+My name's Eli, and I'm a 15 year old developer from Canada!
+
+I'm currently working on building a 2D game engine so that I can eventually get around to making some sellable indie games.  I'm also working on a AI face tracker so I can make a cool cartoon filter for my webcam and replace the memoji here on my GitHub profile with something a little bit more original :)
+
+I'm currently learning tons of things, such as physics, networking, the rendering pipeline, data compression, web design, maturity, and more.  I'm hoping to get better at matrices and vectors.
+
+Fun fact: Did you know that clouds typically weigh a million tons?  Or did you know that a chicken once survived 18 months without a head?
 
 <!--
-**EliasElliotson/EliasElliotson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
