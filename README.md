@@ -2,11 +2,11 @@
 
 My name's Eli, and I'm a 15 year old developer from Canada!
 
-I'm currently working on building a 2D game engine so that I can eventually get around to making some sellable indie games.  I'm also working on a AI face tracker so I can make a cool cartoon filter for my webcam and replace the memoji here on my GitHub profile with something a little bit more original :)
+I'm currently working on building a 2D game engine so that I can eventually get around to making some sellable indie games, as well as developing several applications for my church.
 
-I'm also learning tons of new things, such as physics, networking, the rendering pipeline, data compression, web design, maturity, and more.  I'm hoping to get better at matrices and vectors.
+I'm also learning tons of new things, such as physics, networking, the rendering pipeline, data compression, web design, socializing, and much more.  I'm hoping to get better at binary operations, vectors and linear algebra, fragment shaders, and calculus.
 
-I'm working for a small incorporation called _Cracklecat Inc_. where I get to work on several sites owned by _Advice On Wealth_, as well as the _Moo To Do_ app by _CATTLEytics_.
+I used to work for a small incorporation called _Cracklecat Inc_. where I got to work on several sites owned by _Advice On Wealth_, as well as the _Moo To Do_ app by _CATTLEytics_.
 
 Fun fact: Did you know that clouds typically weigh a million tons?  Or did you know that a chicken once survived 18 months without a head?
 
