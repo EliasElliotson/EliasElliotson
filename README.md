@@ -14,6 +14,24 @@ Fun fact: The number of buttons on the NES controller was no coincidence.  You s
 <div align="center">
   <a href="https://khanacademy.org/profile/smartdetective"><img height="48" src="./icons/khanacademy.svg" alt="Khan Academy icon" /></a>
   <a href="https://gitlab.com/eliaselliotson"><img height="48" src="./icons/gitlab.svg" alt="GitLab icon" /></a>
+  <a href="https://www.npmjs.com/~eliaselliotson"><img height="48" src="./icons/npm.svg" alt="NPM icon" /></a>
+</div>
+
+## Frameworks I know
+<div align="center">
+  <img height="48" src="./icons/html.svg" alt="HTML 5 icon" />
+  <img height="48" src="./icons/css.svg" alt="CSS 3 icon" />
+  <img height="48" src="./icons/javascript.svg" alt="JavaScript icon" />
+  <img height="48" src="./icons/react.svg" alt="React icon" />
+  <img height="48" src="./icons/npm.svg" alt="NPM icon" />
+  <img height="48" src="./icons/chromewebstore.svg" alt="Chrome Web Store icon" />
+  <img height="48" src="./icons/git.svg" alt="Git icon" />
+  <img height="48" src="./icons/node.svg" alt="Node icon" />
+  <img height="48" src="./icons/p5.svg" alt="P5.js icon" />
+  <img height="48" src="./icons/processing.svg" alt="Processing icon" />
+  <img height="48" src="./icons/vite.svg" alt="Vite icon" />
+  <img height="48" src="./icons/vscode.svg" alt="Visual Studio Code icon" />
+  <img height="48" src="./icons/bootstrap.svg" alt="Bootstrap icon" />
 </div>
 
 <!--
