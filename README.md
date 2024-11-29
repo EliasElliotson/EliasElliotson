@@ -32,6 +32,8 @@ Fun fact: The number of buttons on the NES controller was no coincidence.  You s
   <img height="48" src="./icons/vite.svg" alt="Vite icon" />
   <img height="48" src="./icons/vscode.svg" alt="Visual Studio Code icon" />
   <img height="48" src="./icons/bootstrap.svg" alt="Bootstrap icon" />
+  <img height="48" src="./icons/three.svg" alt="Three.js icon" />
+  <img height="48" src="./icons/pixi.svg" alt="Pixi.js icon" />
 </div>
 
 <!--
