@@ -8,7 +8,7 @@ I'm also learning tons of new things, such as physics, networking, the rendering
 
 I used to work for a small incorporation called _Cracklecat Inc_. where I got to work on several sites owned by _Advice On Wealth_, as well as the _Moo To Do_ app by _CATTLEytics_.
 
-Fun fact: The number of buttons on the NES controller was no coincidence.  You see, there are 8 buttons (up, down, left, right, a, b, start, select), each with two possible states (on, off).  That's exactly the same as a byte, which has 8 bits that can be either a "1" or a "0".  This means that the state of the controller can be expressed using only a single byte, therefore optimizing the how much space the controller state takes up.
+Fun fact: The number of buttons on the NES controller was no coincidence.  You see, there are 8 buttons (up, down, left, right, a, b, start, select), each with two possible states (on, off).  That's exactly the same as a byte, which has 8 bits that can be either a "1" or a "0".  This means that the state of the controller can be expressed using only a single byte, therefore optimizing the how much data the controller state takes up.
 
 ## Other accounts
 <div align="center">
