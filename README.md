@@ -8,16 +8,6 @@ I am blessed to be able to serve my God and my church family by using my gift of
 
 I'm constantly learning tons of new things, such as physics, networking, the rendering pipeline, data compression, web design, and much more.  I'm hoping to one day learn binary operations, vectors and linear algebra, fragment shaders, (how to socialize), and calculus.
 
-<!--
-## Other accounts
-<div align="center">
-  <a href="https://khanacademy.org/profile/smartdetective"><img height="48" src="./icons/khanacademy.svg" alt="Khan Academy icon" /></a>
-  <a href="https://gitlab.com/eliaselliotson"><img height="48" src="./icons/gitlab.svg" alt="GitLab icon" /></a>
-  <a href="https://www.npmjs.com/~eliaselliotson"><img height="48" src="./icons/npm.svg" alt="NPM icon" /></a>
-</div>
--->
-
-## Languages/frameworks
 <div align="center">
   <img height="48" src="./icons/html.svg" alt="HTML 5 icon" />
   <img height="48" src="./icons/css.svg" alt="CSS 3 icon" />
